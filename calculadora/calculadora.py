@@ -5,5 +5,4 @@ if operacao == '+':
 	resultado = a + b
 else:
 	resultado = a - b
-resultado = a + b
 print(resultado)
